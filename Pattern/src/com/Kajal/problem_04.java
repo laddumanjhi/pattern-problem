@@ -13,7 +13,7 @@ class pyramid{
                 System.out.print(k+" ");
             }
             for (int k1=1; k1<=i-1; k1++){
-                System.out.print(i-k1+" ");
+                System.out.print(i-(k1)+" ");
             }
             System.out.println("  ");
         }
